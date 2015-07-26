@@ -1,0 +1,28 @@
+baseurl = "http://xsited.github.io/"
+languageCode = "en-us"
+title = "Thomas Kee"
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
+author = "Thomas Kee"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Thomas"
+  github = "xsited"
+  bitbucket = ""
+  flickr = ""
+  twitter = "xsited"
+  email = "xsited@yahoo.com"
+  description = ""
+  cv = "/pages/cv"
+  muut = ""
+  linkedin = "thomaserickee"
+  cover = "/images/background-cover.jpg"
+  logo = "/img/logo-1.jpg"

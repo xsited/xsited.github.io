@@ -1,0 +1,38 @@
+baseurl = "http://xsited.io/"
+languageCode = "en-us"
+title = "Thomas Kee"
+# Define how many pages appear per site
+paginate = 10
+# Enable comments powered by Disqus by entering your disqus shortname
+disqusShortname = "xsited"
+theme = "hugo-minimalist-theme"
+contentdir = "content/post"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+
+[params]
+    site_author = "Thomas Kee"
+    ga_api_key = "Your Google Analytics tracking id" # Google Analytics API key.
+    avatar = "img/logo-1.jpg"
+    header_background = "img/desk.jpg" 
+    header_title = "xsited.io"
+    copyright = "xsited.io. All Rights Reserved." # Copyright notice. This will be displayed in the footer.
+    
+    # Enable gogle analytics by entering your tracking code
+    google_analytics = ""
+
+
+[social]
+    # Add your social network accounts to the profile section on the left
+    # by entering your username. The links to your account will be
+    # create automatically.
+    twitter   = "xsited"
+    facebook  = ""
+    linkedin  = "thomaserickee"
+    behance   = ""
+    dribbble  = ""
+    instagram = ""
+    github    = "xsited"
+    gplus     = ""
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.4.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-30T20:27:48+05:30</updated><id>http://localhost:4000//</id><title type="html">Site Name</title><subtitle>Write your site description here. It will be used as your sites meta description as well!</subtitle><author><name>Thomas Kee</name></author><entry><title type="html">Maecenas sodales accumsan diam</title><link href="http://localhost:4000/2017/09/24/man-must-explore/" rel="alternate" type="text/html" title="Maecenas sodales accumsan diam" /><published>2017-09-24T17:30:00+05:30</published><updated>2017-09-24T17:30:00+05:30</updated><id>http://localhost:4000/2017/09/24/man-must-explore</id><content type="html" xml:base="http://localhost:4000/2017/09/24/man-must-explore/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam est orci, lobortis eget convallis ut, accumsan vitae turpis. Vestibulum molestie, mi ac tristique rhoncus, arcu ante venenatis diam, non tempus nibh libero eget lorem. Nam fermentum sem ut enim pharetra auctor. Etiam pulvinar id risus ac accumsan. Vestibulum aliquet vitae diam ac venenatis. Suspendisse lorem lectus, blandit id sapien ut, iaculis tempus risus. In nec lectus diam.&lt;/p&gt;
+
+&lt;p&gt;Cras in sodales risus, sit amet porttitor neque. Sed scelerisque eget neque sed vulputate. Maecenas sodales accumsan diam, id scelerisque nunc semper ac. Cras dapibus, enim eget semper imperdiet, dui neque congue sem, in mattis ex justo sollicitudin odio. Etiam orci est, dignissim id rhoncus et, accumsan id nisi.&lt;/p&gt;
+
+&lt;p&gt;Praesent sed dolor imperdiet, viverra quam vel, porta eros. Integer a suscipit quam. Vestibulum eu vehicula nisi, non pretium nunc. Vestibulum maximus hendrerit ipsum, et malesuada urna. Aenean vitae elementum nibh. Proin mi lacus, venenatis sed neque sit amet, molestie rhoncus leo. Nulla quam purus, vehicula ut volutpat non, luctus sed lacus. Vivamus pharetra erat vel libero auctor aliquam. Donec tincidunt non turpis vel feugiat.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Proin et ante id eros&lt;/h2&gt;
+
+&lt;p&gt;Praesent neque lorem, fermentum id faucibus eget, elementum sit amet justo. Pellentesque tristique rhoncus eros. Aliquam magna velit, imperdiet vel malesuada lobortis, elementum quis enim. Curabitur nec sodales enim. Fusce scelerisque sed sem et pharetra.&lt;/p&gt;
+
+&lt;blockquote&gt;Nulla non nulla finibus, venenatis magna sed, aliquam diam. Cras pellentesque dui congue urna euismod efficitur consequat sit amet justo.&lt;/blockquote&gt;
+
+&lt;p&gt;Curabitur orci magna, consectetur eu mattis a, imperdiet ac libero. Quisque ac tincidunt nunc.&lt;/p&gt;
+
+&lt;h2 class=&quot;section-heading&quot;&gt;Morbi hendrerit egestas orci&lt;/h2&gt;
+
+&lt;p&gt;id consequat eros pulvinar mattis. Duis quis iaculis tortor, id convallis erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin fringilla commodo augue eu euismod. Cras condimentum nec libero eu pellentesque. Curabitur in fermentum nunc. Etiam bibendum&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#&quot;&gt;
+    &lt;amp-img src=&quot;/img/post-sample-image.jpg&quot; alt=&quot;Post Sample Image&quot; height=&quot;500&quot; width=&quot;800&quot;&gt;&lt;/amp-img&gt;
+&lt;/a&gt;
+&lt;span class=&quot;caption text-muted&quot;&gt;massa nec pharetra ultrices.&lt;/span&gt;&lt;/p&gt;</content><author><name>Thomas Kee</name></author><summary type="html">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam est orci, lobortis eget convallis ut, accumsan vitae turpis. Vestibulum molestie, mi ac tristique rhoncus, arcu ante venenatis diam, non tempus nibh libero eget lorem. Nam fermentum sem ut enim pharetra auctor. Etiam pulvinar id risus ac accumsan. Vestibulum aliquet vitae diam ac venenatis. Suspendisse lorem lectus, blandit id sapien ut, iaculis tempus risus. In nec lectus diam.</summary></entry></feed>

@@ -1,15 +1,15 @@
 # Site settings
-title: xsited
+title: img/xsited_400x400.jpg
 header-img: img/xsited_banner_1500x500.jpeg
-email: xsited@msgden.com
+email: 
 copyright_name: xsited
 description: "Follow someone else.  Views are my own."
 #baseurl: ""
 url: ""
 twitter_username: xsited
-github_username:  xsited
+github_username:  
 facebook_username:  
-email_username:  xsited@msgden.com
+email_username:  
 author: "xsited"
 
 # Google Analytics

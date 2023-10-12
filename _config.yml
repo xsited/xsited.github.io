@@ -1,7 +1,7 @@
 include: [".well-known"]
 # Site settings
 title: "xsited" 
-header-img: img/xsited_banner_icon_1390x500.jpeg
+header-img: img/xsited_banner_icon_1100x400.jpeg
 email: 
 copyright_name: xsited
 description: "Follow someone else.  Views are my own."

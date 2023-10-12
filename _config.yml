@@ -1,3 +1,4 @@
+include: [".well-known"]
 # Site settings
 title: 
 header-img: img/xsited_banner_icon_1500x500.jpeg

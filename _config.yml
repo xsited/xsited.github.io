@@ -1,6 +1,6 @@
 include: [".well-known"]
 # Site settings
-title: 
+title: "xsited" 
 header-img: img/xsited_banner_icon_1500x500.jpeg
 email: 
 copyright_name: xsited
